@@ -6,7 +6,7 @@ console.log(123 + 456, 123 * 456);
 console.log(123 + "456"); // => 579? "123456"?
 
 // string
-console.log("Hello, World!");
+console.log("Hi, World!");
 console.log("Hello, " + "World!");
 
 // boolean
