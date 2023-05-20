@@ -1,3 +1,5 @@
+// primitive data types
+
 // number
 console.log(123);
 console.log(123 + 456, 123 * 456);
